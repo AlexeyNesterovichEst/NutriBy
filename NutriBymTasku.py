@@ -135,7 +135,7 @@ Best wishes,
 NutriBy"""
 
 port = 465  # For SSL
-password = "AnA314159265358"
+password = ""
 
 # Create a secure SSL context
 context = ssl.create_default_context()
